@@ -1,0 +1,5 @@
+tool:
+  go:
+    installations:
+      - name: Go1.16.4
+        home: /usr/local/bin/git
